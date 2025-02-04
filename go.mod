@@ -1,4 +1,4 @@
-module github.com/iqquee/urlbox
+module github.com/jiyamathias/urlbox
 
 go 1.20
 
