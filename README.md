@@ -11,7 +11,7 @@ See the [Urlbox API Docs](https://www.urlbox.io/docs/overview)
 # Installation
 This package can in installed using the go command below.
 ```sh
-go get github.com/iqquee/urlbox
+go get github.com/jiyamathias/urlbox
 ```
 # Quick start
 ```sh
@@ -111,7 +111,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/iqquee/urlbox"
+	"github.com/jiyamathias/urlbox"
 )
 
 func main() {
@@ -167,7 +167,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/iqquee/urlbox"
+	"github.com/jiyamathias/urlbox"
 )
 
 func main() {
